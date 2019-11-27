@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "CustomerSalesCube", "CustomerSalesCube\CustomerSalesCube.dwproj", "{86959483-6756-40FE-94B8-9161A97384AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86959483-6756-40FE-94B8-9161A97384AB}.Development|Default.ActiveCfg = Development
+		{86959483-6756-40FE-94B8-9161A97384AB}.Development|Default.Build.0 = Development
+		{86959483-6756-40FE-94B8-9161A97384AB}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66BDB3C6-31D3-40C4-87AB-1CEA2977D202}
+	EndGlobalSection
+EndGlobal
